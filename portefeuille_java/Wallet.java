@@ -80,4 +80,4 @@ public class Wallet {
         Wallet portefeuille = new Wallet();
         portefeuille.menuPrincipal();
     }
-}
+} 
